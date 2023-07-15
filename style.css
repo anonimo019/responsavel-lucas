@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: chocolate;
+    
+  }
+  
+  hr {
+    margin-top: 10px;
+    border: none;
+    border-top: 1px solid #000000;
+  }
+  
+  p {
+    padding-top: 30px;
+    display: block;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: cornflowerblue;
+  }
+  
+  picture {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
